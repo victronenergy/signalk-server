@@ -166,7 +166,6 @@
     "ts-node": "^10.9.1",
     "typedoc": "^0.28.1",
     "typedoc-plugin-mdn-links": "^5.0.1",
-    "typedoc-signalk-theme": "^0.3.0",
     "typescript": "^5.8.2",
     "typescript-eslint": "^8.29.1"
   },
